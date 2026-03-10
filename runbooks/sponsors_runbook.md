@@ -3,9 +3,10 @@
 ## General Tasks
 
 * Work with the broader team to define sponsorship opportunities for the event (what offerings are possible, pricing, execution plan, quantity, etc.)
-* Manage the sales process of sponsorship opportunities from initial contact through to payment and finally fulfillment
-* Manage sponsor communications to ensure that any questions that arise are handled in a timely manner
-* Manage sponsor fulfillment during the event and ensure that they have a great experience
+* Manage the sales process of sponsorship opportunities from initial contact through to payment and finally fulfillment.
+* Manage sponsor communications to ensure that any questions that arise are handled in a timely manner.
+* Manage sponsor fulfillment during the event and ensure that they have a great experience.
+* The Sponsor Manager is accountable for delivering the sponsorship revenue required in the event budget.
 
 ### General Guidance on Sponsors
 
@@ -18,6 +19,11 @@
 * Maintain a very short decision loop between yourself and the organizers; you need to be able to respond to sponsors quickly (think within 12-24 hours) when they ask something off-the-wall.
 * Maintain a very close working relationship with finance; they are your best operational resource.
 * Never assume a sponsor understands something or has the correct expectation; ALWAYS send it in writing and do not be afraid to repeat yourself.
+* Make sure that the following workflow is completed for every sponsor: Payment is received, Assets are delivered, Contracted benefits are executed onsite, Post-event follow-up is sent.
+* Treat renewal as part of fulfillment.
+* Any benefit outside the prospectus requires approval from the whole team.
+* Help sponsors with capturing leads.
+* Once a sponsor tier is sold, additional benefits are not possible.
 
 ## Important Dates
 
@@ -43,18 +49,20 @@
 * Make sure key materials retrieved from sponsors as they sign up (logos, social blurbs, etc.).
 * Work with Volunteer coordinator to ensure enough Sponsor Helper Volunteers are available during the event.
 * Work with Venue/Signage coordinator for all sponsor-related signage (Navigation, sponsored rooms, sponsored tracks/workshops, sponsored meals/coffee, etc.).
-* Work with Lanyard coordinator to ensure Lanyard Sponsor graphics assets provided to Lanyard vendor.
+* (Platinum & Gold sponsors) Work with Venue coordinator to contact the Booth Builder.
 * Work with Website coordinator to post sponsor logos as they come in and update sponsor docs if needed.
 * Work with Marketing coordinator on announcing sponsorship signups, sending sponsor blurbs, etc.
 
 ### 1 Month Out
 
 * Make sure all sponsor attendees are registered and ticketed.
-* Ask sponsors if they need a tablecloth or a monitor and coordinate with the venue to get these lined up.
-* Ask sponsors if they need any space for in-person delivery (e.g., driving up to the venue), how many parking spaces they need, etc., and coordinate with the venue team to reserve them.
+* (Silver sponsors) Coordinate with the venue to get tables and a monitor lined up.
+* (Platinum and Gold sponsors) Coordinate with the Venue coordinator and Booth Builder about the booth delivery.
+* Ask sponsors if they need any space for in-person delivery (e.g., driving up to the venue), how many parking spaces they need, etc., and coordinate with the venue for parking tickets.
 * Begin sending instructions and updates to sponsor contacts and registered sponsor attendees.
 * Work with broader team to ensure sponsor activities (shoutouts, giveaways, etc.) are integrated into run-of-show schedule.
 * Prepare and send summary "Sponsor Instructions" document and distribute to paid sponsors.
+* Organize online meetings with the sponsor for coordination.
 
 ### Two Weeks Before
 
@@ -66,10 +74,10 @@
 
 ### The Week Before
 
-* Resend "Day of" instructions summary to all sponsor personnel (marketing contacts AND registered attendees AND Sponsor Helper Volunteers).
-* Resend "Sponsor Instructions" document to all sponsor personnel (marketing contacts AND registered attendees AND Sponsor Helper Volunteers).
+* Reminder of "Day of" instructions summary to all sponsor personnel (marketing contacts AND registered attendees AND Sponsor Helper Volunteers).
+* Reminder of "Sponsor Instructions" document to all sponsor personnel (marketing contacts AND registered attendees AND Sponsor Helper Volunteers).
 * Check in with Sponsor Helper Volunteers.
-* Ensure you have contact info for non-table sponsors to make sure you have a way to reach them for shout-outs, happy hour setup, etc.
+* Ensure you have contact info for non-table (Bronze) sponsors to make sure you have a way to reach them for shout-outs, happy hour setup, etc.
 
 ### The Day Before
 
@@ -97,7 +105,7 @@
 * Get granular with the schedule to structure sponsor shoutouts.
 * Work with marketing coordinator to make noise, like immediately announcing sponsors as they are confirmed, not just close to the show.
 * Get the sponsor sales started early enough in to generate interest and catch end-of-year budget, if needed.
-* Update demographic information from prior year's event.
+* Update demographic information from prior year's event (attendee count, job titles / seniority, industries, nationality, gender, etc...)
 
 ## Sponsor Fulfillment Workflow
 
