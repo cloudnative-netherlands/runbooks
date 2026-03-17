@@ -1,4 +1,4 @@
-# Org Team Onboarding
+# Org Team Onboarding (PAGE IN REVIEW)
 
 Handle setting up and onboarding of new team members for the organisation team for each event.
 
@@ -17,9 +17,9 @@ Handle setting up and onboarding of new team members for the organisation team f
   * Announce on socials
   * Reach out to known local community members for recommendations and interest
 * Review runbooks and roles for updates needed from previous feedback and retros
-* Create a new event-specific GitHub team on GitHub (e.g. [Org Team - Amsterdam 2026
-](https://github.com/orgs/RejektsConference/teams/org-team-amsterdam-2026))
-* Create a new event-specific private repo (e.g. `amsterdam-26`) for storing all relevant documents and tracking issues
+* Create a new event-specific GitHub team on GitHub (e.g. [Org Team - Dutch Cloud Native Day 2026
+](https://www.dutchcloudnativeday.nl/team/))
+* Create a new event-specific private repo (e.g. `utrect-26`) for storing all relevant documents and tracking issues
 * Setup a new Project board on GitHub for the new event, associated with the newly created repo
 * Give the Steering Committee team admin permissions to the Repo and Project board
 * Give the newly created Org team admin permissions to the Repo and Project board
@@ -27,7 +27,7 @@ Handle setting up and onboarding of new team members for the organisation team f
 ### Kickoff
 
 * Organise a kick-off meeting for the new Org Team
-  * Provide an overview of the event, its goals and the structure of Rejekts
+  * Provide an overview of the event, its goals and the structure of Dutch Cloud Native Day
   * Assign roles and responsibilities to each team member
   * Collect all volunteers GitHub usernames
 * Add all Org Team volunteers as members of the new GitHub team

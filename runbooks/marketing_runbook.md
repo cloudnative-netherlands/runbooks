@@ -4,7 +4,7 @@
 
 * Create social media posts
 * Send out emails to promote the event
-* Interact with anyone posting about Rejekts.
+* Interact with anyone posting about Dutch Cloud Native Day.
 * Report on marketing efforts regularly.
 * Create digital assets as needed.
 

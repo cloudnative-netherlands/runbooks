@@ -1,6 +1,6 @@
 # Steering Committee Runbook
 
-The Rejekts Steering Committee is a guiding body to help Rejekts events run around the world.
+The Dutch Cloud Native Day Steering Committee is a guiding body to help Dutch Cloud Native Day events run around the world.
 
 ### General Tasks
 

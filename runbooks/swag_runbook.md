@@ -34,7 +34,7 @@
   * Usually these are nicer, so the production time may be longer.
 * Design the badge. The vendor may help with this.
 * Start the lanyard process based on expected number of attendees.
-  * If there is a lanyard sponsor, the lanyards must, at a minimum, have the sponsor's logo. Consider adding the Rejekts logo.
+  * If there is a lanyard sponsor, the lanyards must, at a minimum, have the sponsor's logo. Consider adding the Dutch Cloud Native Day logo.
 * Review current budget.
 
 ### 1 Month Before
