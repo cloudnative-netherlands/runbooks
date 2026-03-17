@@ -5,7 +5,7 @@
 
 ## Role description
 
-This role focuses on securing and working with the AV vendor. Sometimes the venue provides the A/V in-house but other times a vendor needs to be secured externally. This role will need to establish what is needed to successfully execute the conference, depending on the venue and what is provided onsite. This includes ensuring successful recording of all talks, securing and/or designing branded slides for each talk, doing a livestream if you're having one, providing power and other things to various areas of the conference, posting all talks on the Cloud Native Rejekts YouTube channel, etc.
+This role focuses on securing and working with the AV vendor. Sometimes the venue provides the A/V in-house but other times a vendor needs to be secured externally. This role will need to establish what is needed to successfully execute the conference, depending on the venue and what is provided onsite. This includes ensuring successful recording of all talks, securing and/or designing branded slides for each talk, doing a livestream if you're having one, providing power and other things to various areas of the conference, posting all talks on the Dutch Cloud Native Day YouTube channel, etc.
 
 ---
 
@@ -23,7 +23,7 @@ There is a secondary responsibility which lies with all organizers and volunteer
 
 # Morning Beverages and Snacks
 
-Historically, Rejekts does not provide lunch. We encourage folks to venture around town for a lengthy lunch. We do, however, ensure that we provide good quality coffee and some pastries for our attendees upon their arrival. You will work with the venue coordinator to see what the venue provides/allows. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure that the attendees arrive to hot coffee and a light food spread. In some cases, the individual in this role might need to search externally for a vendor. Work with the financial coordinator to secure appropriate budget.
+Historically, Dutch Cloud Native Day does not provide lunch. We encourage folks to venture around town for a lengthy lunch. We do, however, ensure that we provide good quality coffee and some pastries for our attendees upon their arrival. You will work with the venue coordinator to see what the venue provides/allows. Depending on the venue, the food organizer may be the same as the venue organizer. If there is a separate food organizer, work closely with the venue lead to make sure that the attendees arrive to hot coffee and a light food spread. In some cases, the individual in this role might need to search externally for a vendor. Work with the financial coordinator to secure appropriate budget.
 
 ## Role description
 
@@ -37,7 +37,7 @@ Additional task is to provide a local list of possible lunch options for attende
 
 ## Role description
 
-This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about this event's Rejekts. Social media and graphic design skills are a plus.
+This role is responsible for the image, branding, social media posts, and everything else that has to do with what an attendee or potential attendee sees or hears about this event's Dutch Cloud Native Day. Social media and graphic design skills are a plus.
 
 This individual is also responsible for securing a photographer and/or a videographer for the event. This will ensure that there are promotional materials for all conferences.
 
@@ -91,7 +91,7 @@ This role is responsible for finalizing the sponsorship prospectus (sponsorship 
 
 # Steering Committee
 
-The Rejekts Steering Committee is a guiding body to help Rejekts events run around the world.
+The Dutch Cloud Native Day Steering Committee is a guiding body to help Dutch Cloud Native Day events run around the world.
 
 
 ---
@@ -139,7 +139,7 @@ The Volunteer Organizer role is responsible for recruiting, organizing, and mana
 
 ## Role description
 
-This organizer role is responsible for updating and maintaining the rejekts.io website for the city.
+This organizer role is responsible for updating and maintaining the www.dutchcloudnativeday.nl website for the city.
 
 
 ---

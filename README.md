@@ -1,4 +1,4 @@
-# Cloud Native Rejekts Runbooks
+# Dutch Cloud Native Day Runbooks
 
 Use this repository as a place to hold runbooks and role definitions for various organizing functions.
 
